@@ -1,5 +1,5 @@
 //Task #1
-let user = {
+const user = {
     name: "John",
     surname: "Smith"
 };
@@ -18,7 +18,7 @@ console.log(user);
 // //Обьявление корстанты защещает от изменений саму переменую user, а не ее содержимое.
 
 // // Task #3
-// let salaries = {
+// const salaries = {
 //     John: 100,
 //     Ann: 160,
 //     Pete: 130  
